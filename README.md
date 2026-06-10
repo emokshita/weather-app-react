@@ -29,7 +29,9 @@ A modern and responsive weather application built with **React**, **Vite**, and 
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./screenshot1.png)
+![Weather App Screenshot](./screenshot2.png)
+![Weather App Screenshot](./screenshot3.png)
 
 ## 📂 Project Structure
 
