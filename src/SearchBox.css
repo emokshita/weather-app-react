@@ -2,3 +2,27 @@
   text-align: center;
   margin-bottom: 25px;
 }
+
+.MuiInputLabel-root {
+  color: white !important;
+}
+
+.MuiOutlinedInput-input {
+  color: white !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: white !important;
+}
+
+.MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: white !important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #1976d2 !important;
+}
+
+.MuiInputLabel-root.Mui-focused {
+  color: #1976d2 !important;
+}
